@@ -1,0 +1,3 @@
+[submodule "SUIT_Photocals"]
+	path = SUIT_Photocals
+	url = git@github.com:sreejithpa/SUIT_Photocals.git
